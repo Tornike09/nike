@@ -387,6 +387,7 @@ nav {
 }
 .photos-gallery-ul5 {
     display: flex;
+    justify-content: center;
     flex-direction: row;
     scroll-snap-type: x;
     overflow-x: scroll;
